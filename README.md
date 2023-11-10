@@ -2,7 +2,8 @@
 <br>
 <br>
 Ho studiato con <strong style="color:blue; display:inline;">Boolean!</strong> 📘💙
-
+<br>
+<br>
 Contatti:
  - likedin : https://www.linkedin.com/in/samuele-conficconi/ 💻
  - email : samuconf14@gmail.com 📧
